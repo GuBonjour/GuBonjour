@@ -2,6 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://trinity7.xyz/gitbubble-md/</loc>
+    <lastmod>2015-05-23T17:52:19.000Z</lastmod>
+  </url>
+  
+  <url>
     <loc>http://trinity7.xyz/foo-bar-baz/</loc>
     <lastmod>2015-05-20T08:24:44.000Z</lastmod>
   </url>
