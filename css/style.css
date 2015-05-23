@@ -684,8 +684,9 @@ article .entry-content .sharing iframe {
   filter: alpha(opacity=70);
   width: 16px;
   height: 16px;
-  margin-left: 60px;
+  margin-left: 10px;
   float: left;
+  text-indent: -9999px;
   -webkit-transition: 0.3s;
   -moz-transition: 0.3s;
   -o-transition: 0.3s;
@@ -698,6 +699,9 @@ article .entry-content .sharing iframe {
   opacity: 1;
   -ms-filter: none;
   filter: none;
+}
+#footer .social a.rss {
+  background-image: url("images/rss.png");
 }
 #footer .social a.pinterest {
   background-image: url("images/pinterest.png");
