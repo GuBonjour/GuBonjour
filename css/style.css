@@ -63,7 +63,7 @@ strong {
 }
 #header nav ul {
   list-style: none;
-  text-align: center;
+  text-align: left;
 }
 #header nav ul li {
   margin: 0 50px;
@@ -84,6 +84,10 @@ strong {
   opacity: 1;
   -ms-filter: none;
   filter: none;
+}
+#header nav gitbubble {
+  list-style: none;
+  text-align: right;
 }
 article {
   background: #fff;
