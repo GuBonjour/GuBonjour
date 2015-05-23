@@ -4,7 +4,7 @@
   <subtitle><![CDATA[Keep Learning though you are not young.]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://trinity7.xyz/"/>
-  <updated>2015-05-23T18:20:36.000Z</updated>
+  <updated>2015-05-23T18:23:56.000Z</updated>
   <id>http://trinity7.xyz/</id>
   
   <author>
@@ -19,10 +19,10 @@
     <link href="http://trinity7.xyz/gitbubble-md/"/>
     <id>http://trinity7.xyz/gitbubble-md/</id>
     <published>2015-05-23T17:51:37.000Z</published>
-    <updated>2015-05-23T18:20:36.000Z</updated>
+    <updated>2015-05-23T18:23:56.000Z</updated>
     <content type="html"><![CDATA[<p>下面这篇文章是我去年12.24圣诞节前夕写在 GitBubble 上线前夕的小软文，恰好最近学会了利用 GitCafe Pages 以及 Hexo 来搭建个人博客的技能，忍不住就挂上来了。 XD 各位看完还望轻喷。</p>
 <hr>
-<p><img src="https://gitcafe-image.b0.upaiyun.com/7efe1307ea96b6f5f3c8e0a7525e427c.png" alt="图片描述"></p>
+<p><img src="https://gitcafe-image.b0.upaiyun.com/7efe1307ea96b6f5f3c8e0a7525e427c.png" alt=""></p>
 <blockquote>
 <p>“在一个晚上我的母亲问我今天怎….么不开心”</p>
 <h2 id="“我说在我的想象中有一个小游戏…摩擦摩擦…”（神经病_-_-|||）">“我说在我的想象中有一个小游戏…摩擦摩擦…”（神经病 -_-|||）</h2></blockquote>
@@ -34,9 +34,9 @@
 <p>怀揣这股热情我马上在一张 A4 上手绘了一个简陋的效果图，并写了几个大概的规则。我们的老大 Thomas 和市场总监 Richard 看完草图并听完我的想法后也表示了支持，并示意鼓励我们放手去做。（这里也要感谢托尼玛在工作上给予的极大自由度）。</p>
 <p>第二天我带着那张原始的草图把我的想法告诉了 G-Room 的小伙伴们（G-Room 是 GitCafe 内部的神 (xie) 迷 (jiao) 组织，有机会下次给你们介绍），他们也表示了强烈的支持。而特别幸运的是，我们的前端工程师 Ryan 具有相当丰富的移动端开发经验，开发一个基于 Html5 的游戏对他来说根本就不是个事儿。当天晚上我开始画起了 GitBubble 的原型图。但毕竟我不是作设计出身，再加上 Ubuntu 狗找不到什么好的原型设计软件，所以…我是用金山的 WPS Presentation 画的，是的，就是这么任 (diu) 性 (ren)。</p>
 <p><strong>大家可以看下当初的原 (cu) 型 (cao) 设计：</strong></p>
-<p><img src="https://gitcafe-image.b0.upaiyun.com/1f7fdad75dc9f0b00a102dddca474770.png" alt="图片描述"></p>
-<p><img src="https://gitcafe-image.b0.upaiyun.com/e9368b00bf5c90abb3c6b835aaf09384.png" alt="图片描述"></p>
-<p><img src="https://gitcafe-image.b0.upaiyun.com/c7d63301c7225fd3881a1c741bf69610.png" alt="图片描述"></p>
+<p><img src="https://gitcafe-image.b0.upaiyun.com/1f7fdad75dc9f0b00a102dddca474770.png" alt=""></p>
+<p><img src="https://gitcafe-image.b0.upaiyun.com/e9368b00bf5c90abb3c6b835aaf09384.png" alt=""></p>
+<p><img src="https://gitcafe-image.b0.upaiyun.com/c7d63301c7225fd3881a1c741bf69610.png" alt=""></p>
 <hr>
 <p><strong>这里有个小插曲</strong>：为了给我的PM演示我到底要什么效果，我不得不在Presentation里一个个加好动画效果，使它看起来像那么回事儿，下面是当年的效果(说多了都是泪)。</p>
 <p>原型视频地址:<br><br></p>
