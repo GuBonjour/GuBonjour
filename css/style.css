@@ -85,10 +85,6 @@ strong {
   -ms-filter: none;
   filter: none;
 }
-#header nav gitbubble {
-  list-style: none;
-  text-align: right;
-}
 article {
   background: #fff;
   color: #333;
